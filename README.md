@@ -9,7 +9,9 @@ dilimleyici programı kullanarak G-Code üretebilirsiniz. Kabin ve amortisör si
 ----------------------------------------------------------------
 
 <b>Description: </b>
+
 This section includes 3D printer files of the Mars Rover model, which will be controlled over the Internet and will have various tasks. 
 
 <b>Materials: </b>
+
 As a printing material, any preferred color of filament can be used. The type of filament used in the this project is PLA. Files can be printed with 180-220 Nozzle, 55-60 bed temperature, 7% fullness ratio. Files, which are already uploaded or will be uploaded, will be in *.stl format. So it will be possible to create G-Code suitable for your 3D printer by using an appropriate slicing program. Cabin and dashpot systems need supported printing. 
