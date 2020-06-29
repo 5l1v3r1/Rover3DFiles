@@ -27,5 +27,5 @@ rover üzerinde toplamda 6 adet amortisör takımı vardır. Amortisör başına
 yaklaşık olarak 4 dakika baskı süresinde 1.51 metre 5 gram filament harcanmaktadır.</font></p>
 <p align="justify"><font size="2"><b>Motor Yatağı</b><br>
 Plastik dişli motoru sabitleyen ve taşıyan ve salıncağa bağlanan parçadır. 
-Yaklaşık olarak 57 dakika baskı süresinde, 2,30 metre 7 gram filament harcanmaktadır.</font></p>
+Yaklaşık olarak 57 dakika baskı süresinde, 2,30 metre 7 gram filament harcanmaktadır. Parçanın destekli basılması önerilir.</font></p>
 
